@@ -18,7 +18,11 @@ This project analyzes restaurant data using Python and machine learning techniqu
 - Scikit-learn (if used)
 
 ## Dataset
-The project uses the Zomato Restaurant Dataset.
+The dataset used in this project contains restaurant-related information for exploratory data analysis and machine learning.
+
+**Dataset Source:** [Zomato Restaurant Dataset](http://kaggle.com/datasets/srisyra02/zomato-market-analysis/data)
+
+The dataset is used for educational and analytical purposes.
 
 ## Project Workflow
 1. Import libraries.
